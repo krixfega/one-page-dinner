@@ -50,7 +50,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 ::selection {
-  color: #FFD700;
+  color: #B59410;
   background: #f9f6f0;
 }
 
@@ -73,11 +73,11 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0;
 }
 .section-heading.colored .svg {
-  fill: #FF847C;
+  fill: #B59410;
 }
 .section-heading h2 {
   font-size: 80px;
-  color: #FF847C;
+  color: #B59410;
   display: block;
   padding-bottom: 20px;
   line-height: 1.5;
@@ -90,7 +90,7 @@ h1, h2, h3, h4, h5, h6 {
 .section-heading h3 {
   font-weight: 300;
   line-height: 1.5;
-  color: #929292;
+  color: #B59410;
 }
 @media screen and (max-width: 768px) {
   .section-heading h3 {
@@ -310,6 +310,9 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 0px;
   padding-bottom: 0;
 }
+#footer .copyright a{
+  color: #B59410;
+}
 
 .btn {
   text-transform: uppercase;
@@ -319,17 +322,17 @@ h1, h2, h3, h4, h5, h6 {
   transition: 0.3s;
 }
 .btn.btn-primary {
-  background: #FFD700;
+  background: #B59410;
   color: #fff;
   border: none !important;
   border: 2px solid transparent !important;
 }
 .btn.btn-primary:hover, .btn.btn-primary:active, .btn.btn-primary:focus {
   box-shadow: none;
-  background: #FFD700;
+  background: #B59410;
 }
 .btn:hover, .btn:active, .btn:focus {
-  background: #d5c981 !important;
+  background: #B59410 !important;
   color: #fff;
   outline: none !important;
 }
@@ -389,7 +392,7 @@ h1, h2, h3, h4, h5, h6 {
 .form-control:active, .form-control:focus {
   outline: none;
   box-shadow: none;
-  border-color: #FF847C;
+  border-color: #B59410;
 }
 
 .js .animate-box {
