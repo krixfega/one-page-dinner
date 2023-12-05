@@ -261,6 +261,12 @@ h1, h2, h3, h4, h5, h6 {
 .video-hero .display-tc h2 strong {
   font-weight: 700;
 }
+#Dining{
+  color: #B59410;
+  letter-spacing: 0.1cm;
+  font-weight: bolder;
+
+}
 @media screen and (max-width: 768px) {
   .qbootstrap-cover .display-tc h2,
   .video-hero .display-tc h2 {
